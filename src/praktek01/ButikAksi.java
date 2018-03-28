@@ -15,6 +15,17 @@ public class ButikAksi {
         Butik Hardware = new Butik();
         Butik Celcius = new Butik();
         
+        Zara.merek= "Merek";
+        Zara.bahan= "bahan";
+        Zara.warna="warna";
+        Zara.ukuran="ukuran";
+        Zara.harga="harga";
+        
+        Zara.merek="Zara";
+        Zara.bahan="katun";
+        Zara.warna="ungu";
+        Zara.ukuran="xll";
+        Zara.harga="250000";
     }
     
 }
